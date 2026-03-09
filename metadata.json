@@ -1,0 +1,5 @@
+{
+  "name": "AI Avatar Assistant",
+  "description": "A multimodal virtual assistant with 3D avatar, voice/text chat, and long-term memory.",
+  "requestFramePermissions": ["microphone"]
+}
